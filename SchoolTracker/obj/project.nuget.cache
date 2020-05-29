@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "McTfrRYkqiCigepdYTZz2mgQr9Y6gMzy6HBxjnVfBV2WVFh/bPcvpnaG3QIMmHpY6ccRJBk747zITuxqVgTOFA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\SchoolTracker\\SchoolTracker\\SchoolTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hsay7\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\hsay7\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\hsay7\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\hsay7\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\hsay7\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\hsay7\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
